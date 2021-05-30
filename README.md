@@ -12,6 +12,6 @@ Linux config files for my personal linux environment
 - zsh
 - polybar
 
-## credits : Meet Parekh 
+## Credits : Meet Parekh 
 
 -github link to his repo :https://github.com/repulsive-equity/dotfiles
